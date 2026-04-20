@@ -68,6 +68,9 @@ Participation vs. non-participation: **69.6 vs. 69.6**. Virtually no difference.
 Female: **69.7** | Male: **69.4** | Other: **70.7** — the dataset shows no meaningful gender-based performance gap.
 
 ---
+<img width="1486" height="850" alt="D1" src="https://github.com/user-attachments/assets/0a719d91-8780-4338-bde5-1f627824a3e1" />
+<img width="1898" height="854" alt="Screenshot 2026-04-21 011613" src="https://github.com/user-attachments/assets/ac2eaa96-e16a-4fcd-8090-358c5abc709a" />
+
 
 ## 🛠️ Tools & Technologies
 
@@ -112,8 +115,6 @@ The data tells a clear story: **study time and mental health are what separate t
 ## 👤 Author
 
 **Ahmed Haytham**  
-Business Information Systems | Helwan University  
-Data Analysis Track — Digital Egypt Pioneers Initiative (DEPI)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmedhewidi1710/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)]([https://github.com](https://ahmed4170.github.io/))
